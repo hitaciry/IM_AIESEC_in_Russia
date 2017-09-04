@@ -26,11 +26,12 @@
 1. If	you	had	control	over	EXPA	and	had	full	liberty	to	change	anything	or	make it	in	any	way	you want,	what	would	you	do?
 	+ Add Release notes(information about new implemented faetures and fixed bugs)
 	+ Replace email for opportunity to opportunity managers email
-	+ Autoreject all non-selected candidates if opportunity at start data or when all candidates are selected
+	+ Autoreject all non-selected candidates if opportunity at start data or when all candidates are selected, disallow to set the start date less than selection process finish date
 	+ Unify TMP/TLP application process and move it to aiesec.org
 	+ Add access for support team to developer’s jira and staging server
 	+ Add logging for all actions in the system
-	+ Return(give choise) the color theme     
+	+ Return(give choise) the color theme
+	+ Fix API: add documentation and remove unusedfunction 
 2. If	you	could	change	AIESEC	entire	information	system,	what	would	you	add	or	remove?
 	+ Not IS but process changes: we have to do something with OP manager response, it is real problem. It is include standards changes and Notification to OP manager from the system.
 3. Which	things	do	you	want	to	change|implement	in	AIESEC	in	Russia.(list	not	more	then	top-5)
